@@ -2,6 +2,7 @@
 
 ### DESCRIPTION ###
 Automatic generation of explanatory videos of algorithms from their execution traces.
+
 Directory distribution:
 * [example execution traces](https://github.com/tlermand/video_generator/tree/main/example%20execution%20traces "example execution traces") contains execution traces to test the project.
 * [grammar model](https://github.com/tlermand/video_generator/tree/main/grammar%20model "grammar model") contains the grammar used in the project.
