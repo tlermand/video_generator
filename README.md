@@ -15,7 +15,7 @@ To build the project, Apache Netbeans is required.
 * Once open with Apache Netbeans, click build project. (All necessary dependencies will be downloaded in this step)
 * After building the project, you can click run project to test the application.
 
-### USING APPLICATION ###
+### USING THE APPLICATION ###
 Once open:
 * Click on Browse to find and select an execution trace file (you can try any of the files in "[example execution traces](https://github.com/tlermand/video_generator/tree/main/example%20execution%20traces "example execution traces")" folder)
 * Then, you can click on the dropdown selection to select one the 4 available graphical representations for the nodes.
